@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "electron": "^4.1.0",
+    "systeminformation": "^4.1.1"
+  }
+}
